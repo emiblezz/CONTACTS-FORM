@@ -21,7 +21,7 @@
  
                 <div>
                     <button type="button" ><a href="https://emiblezz.github.io/alemibless.github.com/">Cancel</a></button>
-                    <button type="submit" ><a href="https://accounts.google.com/ServiceLogin/identifier?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2Fb%2F1%2FAddMailService&followup=https%3A%2F%2Faccounts.google.com%2Fb%2F1%2FAddMailService&flowName=GlifWebSignIn&flowEntry=ServiceLogin">SUBMIT</a></button>
+                    <button type="submit" ><a href="https://accounts.google.com/ServiceLogin/identifier?service=mail&passive=1209600&osid=1&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%3Ftab%3Drm%26ogbl&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%3Ftab%3Drm%26ogbl&emr=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin">SUBMIT</a></button>
                 </div>
 		</fieldset>
         </form>
