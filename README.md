@@ -20,7 +20,7 @@
                 <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
  
                 <div>
-                    <button type="button" >Cancel</button>
+                    <button type="button" ><a href="https://emiblezz.github.io/alemibless.github.com/">Cancel</a></button>
                     <button type="submit" ><a href="https://accounts.google.com/ServiceLogin/identifier?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2Fb%2F1%2FAddMailService&followup=https%3A%2F%2Faccounts.google.com%2Fb%2F1%2FAddMailService&flowName=GlifWebSignIn&flowEntry=ServiceLogin">SUBMIT</a></button>
                 </div>
 		</fieldset>
